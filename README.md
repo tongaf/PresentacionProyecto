@@ -1,7 +1,9 @@
 <!DOCTYPE html>
    <html>
    <head>
-    aca va el encabezado 
+   <meta charset=“UTF-16”>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>aca va el encabezado</title>
    </head>
    <body>
     aca va el cuerpo
