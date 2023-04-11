@@ -1,7 +1,11 @@
 <!doctype html>
    <html>
-   <head>Datos Personales</head>
-   <body>soy un chico de santa fe capital que esta buscando otros rumbos laborales</body>
+   <head>
+   Datos Personales
+   </head>
+   <body>
+   soy un chico de santa fe capital que esta buscando otros rumbos laborales
+   </body>
    </html>
 
 ## NOMBRE: FORNI GASTON
