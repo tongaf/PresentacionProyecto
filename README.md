@@ -2,7 +2,7 @@
    <html>
    
    <head>
-          <title> aca va el encabezado </title>
+           aca va el encabezado 
    </head>
    
    <body>
