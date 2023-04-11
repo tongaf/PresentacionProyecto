@@ -1,11 +1,14 @@
 <!DOCTYPE html>
    <html>
+   
    <head>
-   <title> aca va el encabezado </title>
+          <title> aca va el encabezado </title>
    </head>
+   
    <body>
-   aca va el cuerpo
+          aca va el cuerpo
    </body>
+   
    </html>
 
    <h1>Datos Personales</h1>
