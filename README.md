@@ -1,13 +1,15 @@
-<!doctype html>
+<!DOCTYPE html>
    <html>
    <head>
-   Datos Personales
+   aca va el encabezado
    </head>
    <body>
-   soy un chico de santa fe capital que esta buscando otros rumbos laborales
+   aca va el cuerpo
    </body>
    </html>
 
-## NOMBRE: FORNI GASTON
-## EDAD: 25 AÑOS
-<h1>Soy un chico de santa fe capital, tratando de hacer este curso para mejorar mi estilo de vida y laboral</h1>
+   <h1>Datos Personales</h1>
+   <h2>NOMBRE: FORNI GASTON</h2>
+   <h2>EDAD: 25 AÑOS</h2>
+   <h1>Descripcion:</h1>
+   <h2>Hago este curso para tener nuevas oportunidad laborales y sabes lo que es el mundo de programacion</h2>
