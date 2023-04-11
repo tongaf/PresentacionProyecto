@@ -14,4 +14,5 @@
    <h1>Descripcion:</h1>
    <h3>Hago este curso para tener nuevas oportunidad laborales y sabes lo que es el mundo de programacion</h3>
    <h3>intentando mejorar la calidad de vida</h3>
+   <h5>agregando desde el remoto</h5>
    
