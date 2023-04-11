@@ -1,7 +1,7 @@
 <!DOCTYPE html>
    <html>
    <head>
-   aca va el encabezado
+   <title> aca va el encabezado </title>
    </head>
    <body>
    aca va el cuerpo
